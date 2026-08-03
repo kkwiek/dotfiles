@@ -7,3 +7,6 @@ group = "git"
 url   = "*/"
 run   = "git"
 group = "git"
+
+[mgr]
+show_hidden = true
