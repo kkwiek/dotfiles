@@ -1,2 +1,4 @@
 .vim
-nvim/lua/local/
+home/nvim/lua/local/
+vendor/*
+!vendor/.gitkeep
