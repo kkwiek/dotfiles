@@ -1,6 +1,6 @@
 DOTFILES="$HOME/dotfiles"
 
-sudo -y apt install zsh
+sudo apt install zsh
 
 git clone https://github.com/zsh-users/zsh-autosuggestions "$DOTFILES/vendor/zsh-autosuggestions"
 git clone https://github.com/zsh-users/zsh-completions.git "$DOTFILES/vendor/zsh-completions"

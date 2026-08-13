@@ -41,3 +41,6 @@ source "$HOME/dotfiles/vendor/fzf/shell/completion.zsh"
 # Custom keybindings
 bindkey '^[[1;5A' history-substring-search-up
 bindkey '^[[1;5B' history-substring-search-down
+
+# Local config 
+[[ -f ~/.zshrc.local ]] && source ~/.zshrc.local
