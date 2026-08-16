@@ -12,6 +12,7 @@ vim.o.preserveindent = true  -- keep as much indent as possible
 vim.g.mapleader = " "
 vim.g.maplocalleader = "\\"
 
+vim.o.winborder = "single"
 vim.g.background = "light"
 vim.opt.termguicolors = true
 

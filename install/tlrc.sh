@@ -1,0 +1,2 @@
+cargo install tlrc --locked
+
